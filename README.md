@@ -1,7 +1,7 @@
 Jump Cube
 =======================
 
-<Jump Cube> 是一款横版过关的 2D 小游戏，基于[Cocos2d For iPhone][1]框架。
+Jump Cube 是一款横版过关的 2D 小游戏，基于[Cocos2d For iPhone][1]框架。
 游戏玩法借鉴自 Chris Jeff 的 [Space is key][2].
 
 编译环境
