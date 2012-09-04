@@ -30,7 +30,7 @@
     {
         CGSize size = [[CCDirector sharedDirector] winSize];
         
-        CCLabelBMFont* gameTitle = [CCLabelBMFont labelWithString:@"Jump!Cube" fntFile:@"shinjiblues2.fnt"];
+        CCLabelBMFont* gameTitle = [CCLabelBMFont labelWithString:@"Jump!Cube" fntFile:@"Shinjiblues2.fnt"];
         gameTitle.position = ccp(size.width*0.5f, size.height*0.85f);
         [self addChild:gameTitle];
         
