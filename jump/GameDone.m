@@ -35,7 +35,7 @@
         [starNight runAction:repeat];
         [self addChild:starNight z:0 tag:0];
         
-        CCLabelBMFont* congratulationLabel = [CCLabelBMFont labelWithString:@"Congratulations" fntFile:@"shinjiblues2.fnt"];
+        CCLabelBMFont* congratulationLabel = [CCLabelBMFont labelWithString:@"Congratulations" fntFile:@"Shinjiblues2.fnt"];
         congratulationLabel.position = CGPointMake(size.width*0.5, size.height*0.75);
         
         CCLabelBMFont* deathLabel = [CCLabelBMFont labelWithString:[NSString stringWithFormat:@"DEATHS:%i",[[gameStaticData sharedStaticData] life]] fntFile:@"BlockFont3.fnt"];
