@@ -17,6 +17,7 @@ Xcode on Mac
 运行条件
 -----------------------
 iPhone or Ipod Touch,Retina Display Required.
+用模拟器跑的话请将模拟器设置为 iPhone Retina.
 因为游戏中使用的位图字体是为 Retina 显示屏设计的，在分辨率更低的设备上会显示溢出。
 
 [1]:http://www.cocos2d-iphone.org "cocos2d for iPhone"
