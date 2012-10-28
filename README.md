@@ -20,5 +20,9 @@ iPhone or Ipod Touch,Retina Display Required.
 用模拟器跑的话请将模拟器设置为 iPhone Retina.
 因为游戏中使用的位图字体是为 Retina 显示屏设计的，在分辨率更低的设备上会显示溢出。
 
+后期计划
+-----------------------
+1,用新的方法完全重写这个游戏，大概要在寒假的时候。
+
 [1]:http://www.cocos2d-iphone.org "cocos2d for iPhone"
 [2]:http://armorgames.com/play/10912/space-is-key "Space is key"
